@@ -1,0 +1,18 @@
+[
+	{
+		"question": "What is DevFest?",
+		"answer": "DevFests are community led developer events hosted by Google Developers Groups around the globe."
+	},
+	{
+		"question": "What are GDGs?",
+		"answer": "GDGs are focused on community building and learning about Google’s technologies."
+	},
+	{
+		"question": "Who can register DevFest?",
+		"answer": "Beginners, experts, literally everyone. Anyone with the passion of learning, who’s fond of technology, passionate programmers , everybody can register and attend."
+	},
+	{
+		"question": "How can I become a member of GDG?",
+		"answer": "Head to Google developers group website (https://gdg.community.dev/) and find the nearest GDG in your location."
+	}
+]
