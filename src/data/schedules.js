@@ -62,52 +62,52 @@ export const ScheduleData = [
 				timezone: "UTC/GMT +5:30 hours",
 				topic: "Enact",
 			},
+			// {
+			// 	time: "19.35 - 19.40",
+			// 	topic: "Speaker 1 Machine Learning - QnA",
+			// },
+			// {
+			// 	time: "19.45 - 20.25",
+			// 	timezone: "UTC/GMT +5:30 hours",
+			// 	topic: "Speaker 2 Machine Learning - Session",
+			// 	title:
+			// 		"Data Cleaning and Preparation for Machine Learning (Case Study: Covid19 Social Assistance in DIY)",
+			// 	speaker: "Argha Jiwa Kusuma",
+			// },
+			// {
+			// 	time: "20.25 - 20.30",
+			// 	timezone: "UTC/GMT +5:30 hours",
+			// 	topic: "Speaker 2 Machine Learning - QnA",
+			// },
+			// {
+			// 	time: "20.30 - 20.35",
+			// 	timezone: "UTC/GMT +5:30 hours",
+			// 	topic: "MC Speaker 3 Machine Learning intro",
+			// },
+			// {
+			// 	time: "20.35 - 21.15",
+			// 	timezone: "UTC/GMT +5:30 hours",
+			// 	topic: "Speaker 3 Machine Learning - Session",
+			// 	title: "Driver Trust and Safety at Gojek",
+			// 	speaker: "Ardya Dipta Nandaviri",
+			// },
+			// {
+			// 	time: "21.15 - 21.20",
+			// 	timezone: "UTC/GMT +5:30 hours",
+			// 	topic: "Speaker 3 Machine Learning - QnA",
+			// },
+			// {
+			// 	time: "21.20 - 21.25",
+			// 	timezone: "UTC/GMT +5:30 hours",
+			// 	topic: "MC Quiz intro",
+			// },
+			// {
+			// 	time: "21.25 - 21.35",
+			// 	timezone: "UTC/GMT +5:30 hours",
+			// 	topic: "Quiz Session",
+			// },
 			{
-				time: "19.35 - 19.40",
-				topic: "Speaker 1 Machine Learning - QnA",
-			},
-			{
-				time: "19.45 - 20.25",
-				timezone: "UTC/GMT +5:30 hours",
-				topic: "Speaker 2 Machine Learning - Session",
-				title:
-					"Data Cleaning and Preparation for Machine Learning (Case Study: Covid19 Social Assistance in DIY)",
-				speaker: "Argha Jiwa Kusuma",
-			},
-			{
-				time: "20.25 - 20.30",
-				timezone: "UTC/GMT +5:30 hours",
-				topic: "Speaker 2 Machine Learning - QnA",
-			},
-			{
-				time: "20.30 - 20.35",
-				timezone: "UTC/GMT +5:30 hours",
-				topic: "MC Speaker 3 Machine Learning intro",
-			},
-			{
-				time: "20.35 - 21.15",
-				timezone: "UTC/GMT +5:30 hours",
-				topic: "Speaker 3 Machine Learning - Session",
-				title: "Driver Trust and Safety at Gojek",
-				speaker: "Ardya Dipta Nandaviri",
-			},
-			{
-				time: "21.15 - 21.20",
-				timezone: "UTC/GMT +5:30 hours",
-				topic: "Speaker 3 Machine Learning - QnA",
-			},
-			{
-				time: "21.20 - 21.25",
-				timezone: "UTC/GMT +5:30 hours",
-				topic: "MC Quiz intro",
-			},
-			{
-				time: "21.25 - 21.35",
-				timezone: "UTC/GMT +5:30 hours",
-				topic: "Quiz Session",
-			},
-			{
-				time: "21.35 - 21.40",
+				time: "16:00",
 				timezone: "UTC/GMT +5:30 hours",
 				topic: "Event closing",
 			},

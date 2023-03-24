@@ -1,11 +1,11 @@
-import bannerDesktop from '../../assets/images/banner.png';
+import bannerDesktop from '../../assets/images/banner.mp4';
 import bannerMobile from '../../assets/images/banner-mobile.png';
 
 export const Banner = () => {
   return (
     <div>
       <div style={{ height: '700px' }}>
-        <img
+        <video autoPlay muted loop
           className="w-full h-full object-cover object-left-top md:object-top"
           src={bannerDesktop}
           alt=""
@@ -20,7 +20,7 @@ export const Banner = () => {
       </div>
       <style>
         {`
-        @media screen and (max-width: 768px) {
+        @media screen and (max-width: 885px) {
           div[style] {
             height: 500px;
           }
