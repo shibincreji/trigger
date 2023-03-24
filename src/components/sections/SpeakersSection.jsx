@@ -17,7 +17,7 @@ export const SpeakersSection = ({ featured }) => {
 	}, [featured]);
 
 	return (
-		<div className="space-y-14">
+		<div className="bg-black space-y-14">
 			<div className="grid sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-5 gap-6">
 				{data.map((speaker) => (
 					<SpeakerCard

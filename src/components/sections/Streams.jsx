@@ -7,7 +7,7 @@ import { ScheduleData } from "../../data/schedules";
 
 export const Streams = () => {
 	return (
-		<div className="bg-gray-100 py-16">
+		<div className="bg-black py-16">
 			<Container>
 				<div className="space-y-14">
 					<div className="grid lg:grid-cols-3 gap-6">

@@ -9,10 +9,10 @@ export const Speakers = () => {
 			<Helmet>
 				<title>TRIGGER 2K23 - Speakers</title>
 			</Helmet>
-			<Container className="py-24 space-y-24">
+			<Container className="bg-black py-24 space-y-24">
 				<Fade top>
 					<div className="space-y-5">
-						<h1 className="text-6xl font-bold">Speakers.</h1>
+						<h1 className="text-6xl font-bold text-white">Speakers.</h1>
 						<p className="text-xl text-gray-500">
 							Our speakers are influential folks & allies who have been
 							associated with communities within their organisations, cities,

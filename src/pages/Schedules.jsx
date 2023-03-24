@@ -19,14 +19,14 @@ export const Schedules = () => {
 	}, [activeTabIndex]);
 
 	return (
-		<div>
+		<div className="bg-black">
 			<Helmet>
-				<title>TRIGGER 2K23 - Schedules</title>
+				<title className="text-white">TRIGGER 2K23 - Schedules</title>
 			</Helmet>
 			<Container className="py-24 space-y-12">
 				<Fade top>
 					<div className="space-y-5">
-						<h1 className="text-6xl font-bold">Schedules.</h1>
+						<h1 className="text-6xl font-bold text-white">Schedules.</h1>
 						<p className="text-xl text-gray-500">
 							Follow code demonstrations by our expert speakers on 3 different
 							tracks. Check out the schedule below and don't forget to mark your

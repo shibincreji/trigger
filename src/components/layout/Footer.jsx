@@ -3,7 +3,7 @@ import { Container } from "../Container";
 export const Footer = () => {
 	return (
 		<footer>
-			<div className="bg-blue-grey-800">
+			<div className="bg-black">
 				<Container className="text-center space-x-5 text-white py-10">
 					<a
 						className="hover:underline"
@@ -23,9 +23,10 @@ export const Footer = () => {
 					</a>
 				</Container>
 			</div>
-			<div className="bg-blue-grey-900">
+			<div className="bg-black">
 				<Container className="text-center text-white py-3">
-					<div>&copy; Copyright 2021 GDG Jakarta | All Right Reserved</div>
+					<div> TRIGGER 2K23 | All Right Reserved</div>
+					<p>Developed with ❤️ by <span> <a href="https://www.linkedin.com/in/shibincreji/">Shibin C Reji</a> & <a href="https://www.linkedin.com/in/sanskar-drolia-a754471b6/">Sanskar Drolia</a></span> </p>
 				</Container>
 			</div>
 		</footer>

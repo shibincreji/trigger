@@ -5,27 +5,20 @@ import { Container } from "../Container";
 
 export const About = () => {
 	return (
-		<div className="py-24">
+		<div className="bg-black py-24">
 			<Container className="flex flex-col lg:flex-row items-center space-y-8 lg:space-y-0 lg:space-x-20">
 				<div className="w-full space-y-10">
 					<div className="space-y-3">
-						<h1 className="text-4xl font-display font-semibold">
+						<h1 className="text-4xl font-display font-semibold text-white">
 						TRIGGER 2K23
 						</h1>
 						<p className="text-xl text-gray-500">
-							"How to use technology to recover and boost community engagement
-							because of pandemic"
+							"It’s time to Acknowledge who we are!"
 						</p>
 					</div>
 
-					<p>
-						Whether it be through technical talks delivered in local languages,
-						a keynote provided by Google Developers, or by simply meeting fellow
-						local developers, DevFest attendees learn about how Google developer
-						products can help them do what they do best - develop. Sessions
-						cover a wide variety of technologies with speakers from Google,
-						Google Developer Groups, Women Techmakers, Google Developer Experts,
-						and more.
+					<p className="text-gray-500">
+					The Department of the Computer Science and Engineering, RajaRajeswari College of Engineering (RRCE) loves to help students augment the theoretical knowledge gained by them with a strong practical approach and promote innovation. The members of CSE Association have planned to conduct a National Level Technical symposium “Trigger 2K23” on 11th April 2023. The main objective is to provide a platform for the students to interact and exchange their ideas.
 					</p>
 
 					<div className="space-y-3">
@@ -33,20 +26,20 @@ export const About = () => {
 							<div className="w-8 flex justify-center">
 								<MdDateRange size={24} />
 							</div>
-							<span className="text-base">26 - 28 November 2021</span>
+							<span className="text-base">11 April 2023</span>
 						</div>
 						<div className="flex items-center text-gray-500 space-x-3">
 							<div className="w-8 flex justify-center">
 								<MdSchedule size={24} />
 							</div>
-							<span className="text-base">Friday 6.30 PM to 9.30 PM</span>
+							<span className="text-base">Tuesday 9.00 AM to 4.00 PM</span>
 						</div>
-						<div className="flex items-center text-gray-500 space-x-3">
+						{/* <div className="flex items-center text-gray-500 space-x-3">
 							<div className="w-8 flex justify-center">
 								<MdSchedule size={24} />
 							</div>
 							<span className="text-base">Saturday 1.00 PM to 4.00 PM</span>
-						</div>
+						</div> */}
 						<div className="flex items-center text-gray-500 space-x-3">
 							<div className="w-8 flex justify-center">
 								<FaYoutube size={24} />
@@ -72,7 +65,7 @@ export const About = () => {
 							target="_blank"
 							rel="noreferrer"
 						>
-							<span className="tracking-wider">Learn More About DevFest</span>
+							<span className="tracking-wider">Learn More About TRIGGER 2K23</span>
 							<span>
 								<MdLaunch size={16} />
 							</span>

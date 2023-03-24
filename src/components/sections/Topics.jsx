@@ -2,7 +2,7 @@ import { Container } from "../Container";
 
 export const Topics = () => {
 	return (
-		<section className="bg-gray-100 py-24">
+		<section className="bg-black py-24">
 			<Container className="space-y-14">
 				<div className="max-w-screen-lg mx-auto text-center space-y-6">
 					<h1 className="text-3xl text-blue-700 font-semibold">Technologies</h1>

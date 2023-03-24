@@ -25,7 +25,7 @@ export const Home = () => {
 				<Streams />
 			</Fade>
 
-			<section className="py-24">
+			<section className="bg-black py-24">
 				<Container className="space-y-14">
 					<div className="space-y-3">
 						<h1 className="text-4xl text-blue-700 font-semibold">Speakers</h1>
@@ -52,7 +52,7 @@ export const Home = () => {
 			</section>
 
 			<Fade>
-				<section className="py-24">
+				<section className="bg-black py-24">
 					<Container className="space-y-14">
 						<div className="space-y-3">
 							<h1 className="text-4xl text-blue-700 font-semibold">

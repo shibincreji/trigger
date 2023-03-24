@@ -2,7 +2,7 @@ import { Container } from "../Container";
 
 export const CTA = () => {
 	return (
-		<section className="py-24 bg-gray-100">
+		<section className="py-24 bg-black">
 			<Container className="space-y-10 text-center">
 				<div className="space-y-5">
 					<h1 className="text-3xl text-gray-700 font-semibold">
@@ -12,7 +12,7 @@ export const CTA = () => {
 					</h1>
 					<p className="text-xl text-gray-500">
 						Let's get connected so that we can reach out to each other via a
-						simple notification. Stake out #DevFestJakarta for the updates and
+						simple notification. Stake out #TRIGGER2K23 for the updates and
 						news.
 					</p>
 				</div>
@@ -23,7 +23,7 @@ export const CTA = () => {
 						target="_blank"
 						rel="noreferrer"
 					>
-						Learn more about DevFest
+						Learn more about TRIGGER 2K23
 					</a>
 				</div>
 			</Container>

@@ -14,7 +14,7 @@ export const HeaderSideMenu = ({ show, onClose }) => {
 			/>
 
 			<div
-				className={`fixed left-0 top-0 h-screen w-72 bg-white z-10 shadow-md transition-all transform ${
+				className={`fixed left-0 top-0 h-screen w-72 bg-black z-10 shadow-md transition-all transform ${
 					show ? "translate-x-0" : "-translate-x-full"
 				}`}
 			>
