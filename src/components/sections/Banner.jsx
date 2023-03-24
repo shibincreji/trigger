@@ -12,7 +12,7 @@ export const Banner = () => {
           style={{ width: '100%' }}
         />
         <img
-          className="w-full h-full object-cover object-left-top md:object-top"
+          className="w-full h-full object-cover object-left-top md:object-top hidden"
           src={bannerMobile}
           alt=""
           style={{ width: '100%' }}
@@ -20,7 +20,7 @@ export const Banner = () => {
       </div>
       <style>
         {`
-        @media screen and (max-width: 636px) {
+        @media screen and (max-width: 636px) { 
           div[style] {
             height: 500px;
           }
