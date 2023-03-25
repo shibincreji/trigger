@@ -8,11 +8,19 @@
 		"answer": "5th Floor, CSE Dept, RRCE, Bangalore."
 	},
 	{
-		"question": "Who can register for TRIGGER 2K23?",
-		"answer": "Any students who is willing to up-scale his/her potential can register for this event."
+		"question": "Who can participate in TRIGGER 2K23?",
+		"answer": "All university students. If you’re someone who is willing to learn and wants to take a shot at changing the world, no matter what your field is, you definitely belong here."
 	},
 	{
 		"question": "What is the Registration Fee?",
 		"answer": "Registration fee is ₹50 per person."
+	},
+	{
+		"question": "I have never been to a hackathon, what should I do?",
+		"answer": "Thats completely fine! You’ll have plenty of opportunities to pick the brains of talented students around you. Furthermore, One day is plenty of time to learn something new."
+	},
+	{
+		"question": "How do I register for Hackfest?",
+		"answer": "Participants have to register for the event online by clicking at the register button when available on the landing section of this website or by on-spot registration and following along."
 	}
 ]

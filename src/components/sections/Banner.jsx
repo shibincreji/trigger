@@ -22,7 +22,7 @@ export const Banner = () => {
         {`
         @media screen and (max-width: 636px) {
           div[style] {
-            height: 500px;
+            height: 700px;
           }
           video:first-of-type {
             display: none;

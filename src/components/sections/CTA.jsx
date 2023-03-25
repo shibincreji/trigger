@@ -7,7 +7,7 @@ export const CTA = () => {
 				<div className="space-y-5">
 					<h1 className="text-3xl text-gray-700 font-semibold">
 						Keep in touch with{" "}
-						<span className="text-blue-700">#TRIGGER 2K23</span> for the
+						<span className="text-blue-700">#TRIGGER2K23</span> for the
 						latest announcements
 					</h1>
 					<p className="text-xl text-gray-500">
