@@ -28,14 +28,14 @@ export const ScheduleData = [
 				timezone: "UTC/GMT +5:30 hours",
 				title: "Crack The Code",
 				topic: "Faculty Co-ordinators: Prof. Autin jose ",
-				speaker: "Co-ordinators: Shibin C Reji, Sanskar Drolia, Shankarling, Santhosh K",
+				speaker: "Co-ordinators: Shibin C Reji, Shankarling",
 			},
 			{
 				time: "10.30 - 12.30",
 				timezone: "UTC/GMT +5:30 hours",
 				title: "Web Designing",
 				topic: "Faculty Co-ordinators: Prof. Manasa G.V.K ",
-				speaker: "Co-ordinators: ",
+				speaker: "Co-ordinators: Sanskar Drolia, Santhosh K",
 			},
 			{
 				time: "11.30 - 12.30",
