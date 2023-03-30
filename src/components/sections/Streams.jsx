@@ -15,7 +15,7 @@ export const Streams = () => {
 							<StreamCard
 								thumbnail={schedule.thumbnail}
 								day={schedule.label}
-								topic={`${schedule.topic} Day`}
+								// topic={`${schedule.topic} Day`}
 								date={schedule.date}
 								time={schedule.time}
 								url={schedule.youtube_url}

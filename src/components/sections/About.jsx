@@ -50,7 +50,7 @@ export const About = () => {
 					<div className="flex flex-col md:flex-row items-center space-y-3 md:space-y-0 md:space-x-6">
 						<a
 							className="w-full md:w-auto bg-blue-700 inline-flex items-center justify-center rounded-full px-6 py-3 text-sm text-white space-x-3 shadow-md transition-all hover:bg-blue-800 hover:px-8"
-							href="https://gdg.community.dev/events/details/google-gdg-jakarta-presents-gdg-jakarta-devfest-2021/"
+							href="https://linktr.ee/trigger2k23"
 							target="_blank"
 							rel="noreferrer"
 						>

@@ -16,8 +16,8 @@ export const HeaderMobile = () => {
 				<div className="flex items-center justify-between py-3 space-x-6">
 					<Link to={ROUTES.HOME} onClick={handleClose}>
 						<img
-							className="w-64"
-							src={require("../../../assets/images/gdg-logo.svg").default}
+							className="w-10"
+							src={require("../../../assets/images/gdg-logo.png").default}
 							alt="GDG Logo"
 						/>
 					</Link>

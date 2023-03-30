@@ -8,7 +8,7 @@ import { ROUTES } from "./routes";
 import { Speakers } from "./pages/Speakers";
 import { Schedules } from "./pages/Schedules";
 import { Organizers } from "./pages/Organizers";
-import "./utils/firebase";
+// import "./utils/firebase";
 
 function App() {
 	const history = useHistory();

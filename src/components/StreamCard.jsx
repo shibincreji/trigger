@@ -22,7 +22,7 @@ export const StreamCard = ({
 				</div>
 				<div className="p-3 space-y-3">
 					<div className="font-semibold text-xl">
-						{day} • {topic}
+						{day}  {topic}
 					</div>
 					<div className="flex flex-col justify-between space-y-6">
 						<div className="space-y-3">

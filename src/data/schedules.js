@@ -1,9 +1,9 @@
 export const ScheduleData = [
 	{
 		label: "Technical Event",
-		title: "Machine Learning",
+		title: "Technical Event",
 		date: "Tuesday, 11 April 2023",
-		time: "18:15 - 21.00 WIB",
+		time: "10:30 - 16.00",
 		thumbnail: require("../assets/images/lighweight-ml.png").default,
 		celendar_url:
 			"https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N244cDZnMWUwdDY3MHVkbXV2MXFzNDUxbDMgdHJpZ2dlcjJrMjNAbQ&tmsrc=trigger2k23%40gmail.com",
@@ -22,6 +22,7 @@ export const ScheduleData = [
 				title: "Paper Presentation",
 				topic: "Faculty Co-ordinators: Dr. Kamal Raj T",
 				speaker: "Co-ordinators: Keerthana R, Meghana S, Madhusalini",
+				url: "https://forms.gle/7YBN8TyWUWjkR15A9"
 			},
 			{
 				time: "10.30 - 15.00",
@@ -29,6 +30,7 @@ export const ScheduleData = [
 				title: "Crack The Code",
 				topic: "Faculty Co-ordinators: Prof. Autin jose ",
 				speaker: "Co-ordinators: Shibin C Reji, Shankarling",
+				url: "https://forms.gle/G9r2YNorL5c23N887"
 			},
 			{
 				time: "10.30 - 12.30",
@@ -36,13 +38,15 @@ export const ScheduleData = [
 				title: "Web Designing",
 				topic: "Faculty Co-ordinators: Prof. Manasa G.V.K ",
 				speaker: "Co-ordinators: Sanskar Drolia, Santhosh K",
+				url: "https://forms.gle/A6ZybiTmjSHPZiz46"
 			},
 			{
 				time: "11.30 - 12.30",
 				timezone: "UTC/GMT +5:30 hours",
 				title: "Technical Quiz",
-				topic: "Faculty Co-ordinators: Dr Kiruba ",
+				topic: "Faculty Co-ordinators: Dr. Kiruba ",
 				speaker: "Co-ordinators: Rohan R, Vijay Rangan",
+				url: "https://forms.gle/4yg1fEJfNuQDQ1yX8"
 			},
 			// {
 			// 	time: "19.35 - 19.40",
@@ -117,6 +121,7 @@ export const ScheduleData = [
 				title: "Cooking Without Fire",
 				topic: "Faculty Co-ordinators: Prof. Sunil",
 				speaker: "Co-ordinators: Deekshitha UM, Gunashree, Keerthana HS ",
+				url: "https://forms.gle/4QbtqxA9crW9tSTz8"
 			},
 			{
 				time: "10.30 - 15.30",
@@ -124,6 +129,7 @@ export const ScheduleData = [
 				title: "Treasure Hunt",
 				topic: "Faculty Co-ordinators: Prof. Deepa kannur ",
 				speaker: "Co-ordinators: Santhosh N, Simple.KS, Srivalli N, Hemavathi R ",
+				url: "https://forms.gle/XGDQZG2GVxoWE1737"
 			},
 			{
 				time: "11.00 - 12.30",
@@ -131,6 +137,7 @@ export const ScheduleData = [
 				title: "Golden Minute",
 				topic: "Faculty Co-ordinators: Prof. porkodi",
 				speaker: "Co-ordinators: Alisha, Manasi, Jeevan",
+				url: "https://forms.gle/Lz9EZ2yM1bNzi6eS7"
 			},
 			{
 				time: "11.30 - 12.30",
@@ -138,6 +145,15 @@ export const ScheduleData = [
 				title: "Bakasura",
 				topic: "Faculty Co-ordinators: Prof. Rashmi BR",
 				speaker: "Co-ordinators: Shyam Sundar, Bindhushree BM, Geethashree R ",
+				url: "https://forms.gle/qych3UZ5WVPg7tCd8"
+			},
+			{
+				time: "13.00 - 15.30",
+				timezone: "UTC/GMT +5:30 hours",
+				title: "BGMI",
+				topic: "Faculty Co-ordinators: Prof. Supraja ",
+				speaker: "Co-ordinators: Amogha L A, Shri Hari, Adithya J",
+				url: "https://forms.gle/3XLSqnowg1J8tyTH9"
 			},
 			{
 				time: "14.00 - 15.30",
@@ -145,6 +161,7 @@ export const ScheduleData = [
 				title: "Enact",
 				topic: "Faculty Co-ordinators: Prof. Rajkumar",
 				speaker: "Co-ordinators: Shobha, Shristi, J Sahana Raja ",
+				url: "https://forms.gle/s95t7UcH12dGYcCR7"
 			},
 			// {
 			// 	time: "13.25 - 14.05",
@@ -231,6 +248,7 @@ export const ScheduleData = [
 				title: "Mini - Cricket ",
 				topic: "Faculty Co-ordinators: Prof. Shashidar",
 				speaker: "Co-ordinators: Rahul Rai, Mareddy Crishtopher, Manoj J",
+				url: "https://forms.gle/C4ynVtPDnqNxaXw88"
 			},
 			{
 				time: "10.30 - 12.00",
@@ -238,6 +256,7 @@ export const ScheduleData = [
 				title: "Mini-VolleyBall ",
 				topic: "Faculty Co-ordinators: Prof. Siddik",
 				speaker: "Co-ordinators: Nagaprasad, Niranjan R ",
+				url: "https://forms.gle/KRDcg1JpM5Pgvsif9"
 			},
 			// {
 			// 	time: "13.00 - 13.10",

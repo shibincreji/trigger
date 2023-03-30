@@ -3,7 +3,7 @@ import { Container } from "../Container";
 export const Footer = () => {
 	return (
 		<footer>
-			<div className="bg-black">
+			{/* <div className="bg-black">
 				<Container className="text-center space-x-5 text-white py-10">
 					<a
 						className="hover:underline"
@@ -22,7 +22,7 @@ export const Footer = () => {
 						Community Guidelines
 					</a>
 				</Container>
-			</div>
+			</div> */}
 			<div className="bg-black">
 				<Container className="text-center text-white py-3">
 					<div> TRIGGER 2K23 | All Right Reserved</div>

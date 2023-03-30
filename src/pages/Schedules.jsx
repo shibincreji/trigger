@@ -51,9 +51,9 @@ export const Schedules = () => {
 						))}
 					</div>
 
-					<div className="text-center font-semibold text-3xl">
+					{/* <div className="text-center font-semibold text-black text-3xl">
 						{activeSchedule.topic} Day
-					</div>
+					</div> */}
 				</Fade>
 
 				<Fade>

@@ -8,8 +8,8 @@ export const HeaderDesktop = () => {
 			<div className="absolute left-10 top-1/2 transform -translate-y-1/2">
 				<Link to={ROUTES.HOME}>
 					<img
-						className="w-64"
-						src={require("../../../assets/images/gdg-logo.svg").default}
+						className="w-10"
+						src={require("../../../assets/images/gdg-logo.png").default}
 						alt="GDG Logo"
 					/>
 				</Link>
@@ -32,7 +32,7 @@ export const HeaderDesktop = () => {
 			<div className="flex absolute right-10 top-1/2 transform -translate-y-1/2 items-center space-x-3">
 				<a
 					className="bg-blue-700 flex items-center rounded-full px-6 py-3 text-sm text-white space-x-3 shadow-md transition-all hover:bg-blue-700"
-					href="https://gdg.community.dev/events/details/google-gdg-jakarta-presents-gdg-jakarta-devfest-2021/"
+					href="https://linktr.ee/trigger2k23/"
 					target="_blank"
 					rel="noreferrer"
 				>
