@@ -21,9 +21,9 @@ export const HeaderSideMenu = ({ show, onClose }) => {
 				<div className="px-10 py-14 border-b">
 					<Link to={ROUTES.HOME} onClick={onClose}>
 						<img
-							className="w-64"
-							src={require("../../../assets/images/gdg-logo.svg").default}
-							alt="GDG Logo"
+							className="w-10"
+							src={require("../../../assets/images/gdg-logo.png").default}
+							alt="Trigger Logo"
 						/>
 					</Link>
 				</div>

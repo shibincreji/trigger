@@ -16,10 +16,8 @@ export const Organizers = () => {
 					<div className="space-y-5">
 						<h1 className="text-6xl font-bold text-white">Organizers.</h1>
 						<p className="text-xl text-gray-500">
-							DevFest Jakarta is a Jakarta community-driven conference, and
-							administratively supported by GDG Jakarta. To make all this
-							possible, an awesome team of volunteers is working behind the
-							scenes.
+							TRIGGER 2K23 is a National Level Technical Symposium organized by Dept of CSE, RRCE. To make all this
+							possible, an awesome team of volunteers is working behind the scenes.
 						</p>
 					</div>
 				</Fade>

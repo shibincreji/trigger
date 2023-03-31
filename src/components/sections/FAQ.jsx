@@ -17,7 +17,7 @@ export const FAQ = () => {
 			{FAQ_DATA.map((faq, index) => (
 				<div key={faq.question} className="bg-black max-w-screen-md w-full border-b">
 					<button
-						className="w-full flex items-center justify-between p-3 bg-black-50 hover:bg-gray-100" //bg color
+						className="w-full flex items-center justify-between p-3 bg-black-50 hover:bg-gray-50" //bg color
 						onClick={() => handleClickItem(index)}
 					>
 						 <div className="w-11/12 text-left text-lg text-white">{faq.question}</div>  
