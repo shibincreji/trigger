@@ -29,7 +29,7 @@ export const ScheduleData = [
 				timezone: "UTC/GMT +5:30 hours",
 				title: "CodeX",
 				topic: "Faculty Co-ordinators: Prof. Autin jose ",
-				speaker: "Co-ordinators: Shibin C Reji, Shankarling, Sanskar Drolia, Santhosh K",
+				speaker: "Co-ordinators: Shibin C Reji, Shankarling, Sanskar Drolia, Santosh K",
 				url: "https://forms.gle/G9r2YNorL5c23N887"
 			},
 			{

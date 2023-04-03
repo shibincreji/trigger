@@ -18,7 +18,7 @@ export const Banner = () => {
           style={{ width: '100',height: '100%' }}
         />
       </div>
-      <style>
+      {/* <style>
         {`
         @media screen and (max-width: 636px) {
           div[style] {
@@ -32,7 +32,7 @@ export const Banner = () => {
           }
         }
       `}
-      </style>
+      </style> */}
     </div>
   );
 };

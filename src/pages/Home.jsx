@@ -30,14 +30,12 @@ export const Home = () => {
 					<div className="space-y-3">
 						<h1 className="text-4xl text-blue-700 font-semibold">Speakers</h1>
 						<p className="text-lg text-gray-500">
-							Our speakers are influential folks & allies who have been
-							associated with communities within their organisations, cities,
-							country and beyond.
+						Join us in the company of notable dignitaries, renowned chief guest and respected college authorities, as we celebrate the spirit of learning and knowledge at our college event.
 						</p>
 					</div>
 					<SpeakersSection featured />
 
-					{/* <div className="flex items-center justify-start">
+					<div className="flex items-center justify-start">
 							<Link
 								className="group transition-all px-5 py-2 text-blue-700 rounded-md flex items-center space-x-5 hover:bg-gray-50"
 								to={ROUTES.SPEAKERS}
@@ -47,7 +45,7 @@ export const Home = () => {
 									<FiChevronRight />
 								</span>
 							</Link>
-						</div> */}
+						</div>
 				</Container>
 			</section>
 

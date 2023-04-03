@@ -4,7 +4,7 @@ export const ORGANIZERS_DATA = [
 		event_role: "Publisher",
 		professional_role: "Main Co-ordinator",
 		institution: "CSE, RRCE",
-		avatar_url: require("../assets/images/organizers/sowmya.jpeg")
+		avatar_url: require("../assets/images/organizers/sowmya.jpg")
 			.default,
 		social_media: {
 			linkedin: "https://www.linkedin.com/in/sowmya-mn-a69261246/",
@@ -125,10 +125,21 @@ export const ORGANIZERS_DATA = [
 		event_role: "Codex Co-ordinator",
 		professional_role: "CodeX Co-ordinator",
 		institution: "CSE, RRCE",
-		// avatar_url: require("../assets/images/organizers/shankarling.jpg")
-		// 	.default,
+		avatar_url: require("../assets/images/organizers/shankarling.jpg")
+			.default,
 		social_media: {
-			linkedin: "https://www.linkedin.com/in/sanskardrolia",
+			linkedin: "https://www.linkedin.com/in/shankarling-kalashetty-b59149204/",
+		},
+	},
+	{
+		name: "Santosh K",
+		event_role: "Codex Co-ordinator",
+		professional_role: "CodeX Co-ordinator",
+		institution: "CSE, RRCE",
+		avatar_url: require("../assets/images/organizers/santhosh.jpg")
+			.default,
+		social_media: {
+			linkedin: "https://www.linkedin.com/in/santoshk132",
 		},
 	},
 	{
@@ -162,6 +173,17 @@ export const ORGANIZERS_DATA = [
 			.default,
 		social_media: {
 			linkedin: "https://www.linkedin.com/in/samyuktha-s-701235239/",
+		},
+	},
+	{
+		name: "Sneha N V",
+		event_role: "Pixel Wizard Co-ordinator",
+		professional_role: "Pixel Wizard Co-ordinator",
+		institution: "CSE, RRCE",
+		avatar_url: require("../assets/images/organizers/snehanv.jpg")
+			.default,
+		social_media: {
+			linkedin: "https://www.linkedin.com/in/sneha-n-v-naik-172ab6246/",
 		},
 	},
 	{
@@ -275,6 +297,17 @@ export const ORGANIZERS_DATA = [
 		},
 	},
 	{
+		name: "Jeevan Y",
+		event_role: "Golden Minutes Co-ordinator",
+		professional_role: "Golden Minutes Co-ordinator",
+		institution: "CSE, RRCE",
+		avatar_url: require("../assets/images/organizers/jeevan.jpg")
+			.default,
+		social_media: {
+			linkedin: "",
+		},
+	},
+	{
 		name: "Alisha S",
 		event_role: "Golden Minutes Co-ordinator",
 		professional_role: "Golden Minutes Co-ordinator",
@@ -313,6 +346,28 @@ export const ORGANIZERS_DATA = [
 		professional_role: "BGMI Co-ordinator",
 		institution: "CSE, RRCE",
 		avatar_url: require("../assets/images/organizers/srihari.jpg")
+			.default,
+		social_media: {
+			linkedin: "",
+		},
+	},
+	{
+		name: "Sahana Raja",
+		event_role: "BGMI Co-ordinator",
+		professional_role: "Shout in silence Co-ordinator",
+		institution: "CSE, RRCE",
+		avatar_url: require("../assets/images/organizers/sahana.jpg")
+			.default,
+		social_media: {
+			linkedin: "",
+		},
+	},
+	{
+		name: "Shobha Gowda",
+		event_role: "BGMI Co-ordinator",
+		professional_role: "Shout in silence Co-ordinator",
+		institution: "CSE, RRCE",
+		avatar_url: require("../assets/images/organizers/shoba.jpeg")
 			.default,
 		social_media: {
 			linkedin: "",

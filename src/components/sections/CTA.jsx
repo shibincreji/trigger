@@ -19,7 +19,7 @@ export const CTA = () => {
 				<div>
 					<a
 						className="bg-blue-700 hover:bg-blue-800 transition-all px-8 py-3 rounded-md text-white"
-						href="https://gdg.community.dev/devfest/"
+						href="https://www.instagram.com/p/CqfPDD8r5AZ/?igshid=MDJmNzVkMjY="
 						target="_blank"
 						rel="noreferrer"
 					>

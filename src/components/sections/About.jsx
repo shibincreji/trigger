@@ -61,7 +61,7 @@ export const About = () => {
 						</a>
 						<a
 							className="w-full md:w-auto border-blue-700 border inline-flex items-center justify-center rounded-full px-6 py-3 text-sm text-blue-700 space-x-3 transition-all hover:bg-gray-50 hover:px-8"
-							href="https://gdg.community.dev/devfest/"
+							href="https://www.instagram.com/p/CqfPDD8r5AZ/?igshid=MDJmNzVkMjY="
 							target="_blank"
 							rel="noreferrer"
 						>
@@ -72,7 +72,7 @@ export const About = () => {
 						</a>
 					</div>
 				</div>
-				<div className="w-full">
+				{/* <div className="w-full">
 					<div className="rounded-md overflow-hidden">
 						<ReactPlayer
 							width="100%"
@@ -80,7 +80,7 @@ export const About = () => {
 							controls
 						/>
 					</div>
-				</div>
+				</div> */}
 			</Container>
 		</div>
 	);
