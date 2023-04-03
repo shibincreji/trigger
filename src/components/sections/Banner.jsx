@@ -15,14 +15,14 @@ export const Banner = () => {
           className="w-full h-full object-cover object-left-top md:object-top"
           src={bannerMobile}
           alt=""
-          style={{ width: '100',height: '100%' }}
+          style={{ width: '100' }}
         />
       </div>
-      {/* <style>
+      <style>
         {`
         @media screen and (max-width: 636px) {
           div[style] {
-            height: 700px;
+          
           }
           video:first-of-type {
             display: none;
@@ -32,7 +32,7 @@ export const Banner = () => {
           }
         }
       `}
-      </style> */}
+      </style>
     </div>
   );
 };

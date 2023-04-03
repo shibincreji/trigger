@@ -5,7 +5,7 @@ import { SpeakersSection } from "../components/sections/SpeakersSection";
 
 export const Speakers = () => {
 	return (
-		<div>
+		<div className="bg-black">
 			<Helmet>
 				<title>TRIGGER 2K23 - Speakers</title>
 			</Helmet>

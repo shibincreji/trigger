@@ -24,6 +24,7 @@ export const HeaderMobile = () => {
 					<button
 						className="p-4 transform translate-x-4 transition-all hover:bg-gray-100 rounded-full outline-none"
 						onClick={() => setShowSideMenu(!showSideMenu)}
+						style={{ backgroundColor: 'gray' }}
 					>
 						<MdDehaze size={20} />
 					</button>
@@ -32,3 +33,4 @@ export const HeaderMobile = () => {
 		</div>
 	);
 };
+

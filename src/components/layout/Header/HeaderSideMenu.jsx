@@ -46,7 +46,7 @@ export const HeaderSideMenu = ({ show, onClose }) => {
 				<div className="absolute bottom-0 flex items-center space-x-3 justify-between w-full">
 					<a
 						className="w-full bg-blue-700 flex items-center justify-between rounded-full m-6 px-6 py-4 text-sm text-white space-x-3 shadow-md transition-all hover:bg-blue-700"
-						href="https://gdg.community.dev/"
+						href="https://linktr.ee/trigger2k23"
 						target="_blank"
 						rel="noreferrer"
 					>

@@ -7,7 +7,7 @@ import { ORGANIZERS_DATA } from "../data/organizers";
 
 export const Organizers = () => {
 	return (
-		<div>
+		<div className="bg-black">
 			<Helmet>
 				<title>TRIGGER 2K23 - Organizers</title>
 			</Helmet>
