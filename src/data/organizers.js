@@ -183,7 +183,7 @@ export const ORGANIZERS_DATA = [
 		avatar_url: require("../assets/images/organizers/keerthanar.jpg")
 			.default,
 		social_media: {
-			linkedin: "",
+			linkedin: "https://www.linkedin.com/in/keerthana-r-3003871bb",
 		},
 	},
 	{
