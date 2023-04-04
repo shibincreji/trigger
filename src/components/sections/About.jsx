@@ -18,7 +18,7 @@ export const About = () => {
 					</div>
 
 					<p className="text-gray-500">
-					The Department of the Computer Science and Engineering, RajaRajeswari College of Engineering (RRCE) loves to help students augment the theoretical knowledge gained by them with a strong practical approach and promote innovation. The members of CSE Association have planned to conduct a National Level Technical symposium “Trigger 2K23” on 11th April 2023. The main objective is to provide a platform for the students to interact and exchange their ideas.
+					The Department of the Computer Science and Engineering, RajaRajeswari College of Engineering (RRCE) loves to help students augment the theoretical knowledge gained by them with a strong practical approach and promote innovation. The members of CSE Association have planned to conduct a National Level Technical symposium “TRIGGER 2K23” on 11th April 2023. The main objective is to provide a platform for the students to interact and exchange their ideas.
 					</p>
 
 					<div className="space-y-3">

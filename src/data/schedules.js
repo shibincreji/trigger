@@ -6,8 +6,8 @@ export const ScheduleData = [
 		time: "10:30 - 16.00",
 		thumbnail: require("../assets/images/lighweight-ml.png").default,
 		celendar_url:
-			"https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N244cDZnMWUwdDY3MHVkbXV2MXFzNDUxbDMgdHJpZ2dlcjJrMjNAbQ&tmsrc=trigger2k23%40gmail.com",
-		youtube_url: "https://youtu.be/SoRgRf3B-0w",
+			"https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M2Vzc3B2ZWlzOG44azI0bDhiYTgwNDE4NWQgdHJpZ2dlcjJrMjNAbQ&tmsrc=trigger2k23%40gmail.com",
+		youtube_url: "",
 		agenda: [
 			{
 				time: "09.00 - 10.30",
@@ -106,8 +106,8 @@ export const ScheduleData = [
 		thumbnail: require("../assets/images/lighweight-android.png").default,
 		time: "10:30 - 16.00",
 		celendar_url:
-			"https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N244cDZnMWUwdDY3MHVkbXV2MXFzNDUxbDMgdHJpZ2dlcjJrMjNAbQ&tmsrc=trigger2k23%40gmail.com",
-		youtube_url: "https://youtu.be/o6RxDaHziFU",
+			"https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M2Vzc3B2ZWlzOG44azI0bDhiYTgwNDE4NWQgdHJpZ2dlcjJrMjNAbQ&tmsrc=trigger2k23%40gmail.com",
+		youtube_url: "",
 		agenda: [
 			{
 				time: "09.00 - 10.30",
@@ -233,8 +233,8 @@ export const ScheduleData = [
 		time: "10:30 - 16.00",
 		thumbnail: require("../assets/images/lighweight-web.png").default,
 		celendar_url:
-			"https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N244cDZnMWUwdDY3MHVkbXV2MXFzNDUxbDMgdHJpZ2dlcjJrMjNAbQ&tmsrc=trigger2k23%40gmail.com",
-		youtube_url: "https://youtu.be/NQfB0gXFryE",
+			"https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M2Vzc3B2ZWlzOG44azI0bDhiYTgwNDE4NWQgdHJpZ2dlcjJrMjNAbQ&tmsrc=trigger2k23%40gmail.com",
+		youtube_url: "",
 		agenda: [
 			{
 				time: "09.00 - 10.30",

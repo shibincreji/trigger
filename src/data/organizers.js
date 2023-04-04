@@ -55,18 +55,7 @@ export const ORGANIZERS_DATA = [
 		},
 	},
 	{
-		name: "Nandish K",
-		event_role: "Codex Co-ordinator",
-		professional_role: "Discipline Co-ordinator",
-		institution: "CSE, RRCE",
-		avatar_url: require("../assets/images/organizers/nandish.jpeg")
-			.default,
-		social_media: {
-			linkedin: "",
-		},
-	},
-	{
-		name: "Sindhusree V ",
+		name: "Sindhushree V ",
 		event_role: "Decoration Co-ordinator",
 		professional_role: "Decoration Co-ordinator ",
 		institution: "CSE, RRCE",
@@ -352,6 +341,17 @@ export const ORGANIZERS_DATA = [
 		},
 	},
 	{
+		name: "Adithya J",
+		event_role: "BGMI Co-ordinator",
+		professional_role: "BGMI Co-ordinator",
+		institution: "CSE, RRCE",
+		avatar_url: require("../assets/images/organizers/adithya.jpg")
+			.default,
+		social_media: {
+			linkedin: "",
+		},
+	},
+	{
 		name: "Sahana Raja",
 		event_role: "BGMI Co-ordinator",
 		professional_role: "Shout in silence Co-ordinator",
@@ -373,6 +373,29 @@ export const ORGANIZERS_DATA = [
 			linkedin: "",
 		},
 	},
+	{
+		name: "Geethashree",
+		event_role: "Media Co-ordinator",
+		professional_role: "Media Co-ordinator",
+		institution: "CSE, RRCE",
+		avatar_url: require("../assets/images/organizers/geetha.jpg")
+			.default,
+		social_media: {
+			linkedin: "",
+		},
+	},
+	{
+		name: "Nandish K",
+		event_role: "Codex Co-ordinator",
+		professional_role: "Discipline Co-ordinator",
+		institution: "CSE, RRCE",
+		avatar_url: require("../assets/images/organizers/nandish.jpeg")
+			.default,
+		social_media: {
+			linkedin: "",
+		},
+	},
+
 	// {
 	// 	name: "Cindy Permatasari",
 	// 	event_role: "Host Day 3",

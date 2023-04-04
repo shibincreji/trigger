@@ -26,6 +26,7 @@ function App() {
 	}, [history]);
 
 	return (
+		<Route basename="/">
 		<div className="App">
 			<Header ref={headerRef} />
 
@@ -48,7 +49,9 @@ function App() {
 
 			<Footer />
 		</div>
+		</Route>
 	);
+	
 }
 
 export default App;
