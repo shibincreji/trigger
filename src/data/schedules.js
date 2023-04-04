@@ -144,7 +144,7 @@ export const ScheduleData = [
 				timezone: "UTC/GMT +5:30 hours",
 				title: "Bakasura",
 				topic: "Faculty Co-ordinators: Prof. Rashmi BR",
-				speaker: "Co-ordinators: Shyam Sundar, Bindhushree BM, Geethashree R ",
+				speaker: "Co-ordinators: Shyam Sundar",
 				url: "https://forms.gle/qych3UZ5WVPg7tCd8"
 			},
 			{

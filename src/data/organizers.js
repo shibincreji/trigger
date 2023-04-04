@@ -253,7 +253,7 @@ export const ORGANIZERS_DATA = [
 		},
 	},
 	{
-		name: "Gunasree N A",
+		name: "Gunashree N A",
 		event_role: "Pixel Wizard Co-ordinator",
 		professional_role: "Cooking without Fire Co-ordinator",
 		institution: "CSE, RRCE",
@@ -368,6 +368,17 @@ export const ORGANIZERS_DATA = [
 		professional_role: "Shout in silence Co-ordinator",
 		institution: "CSE, RRCE",
 		avatar_url: require("../assets/images/organizers/shoba.jpeg")
+			.default,
+		social_media: {
+			linkedin: "",
+		},
+	},
+	{
+		name: "Nagaprasad K",
+		event_role: "Volleyball coordinator",
+		professional_role: "Volleyball coordinator",
+		institution: "CSE, RRCE",
+		avatar_url: require("../assets/images/organizers/naga.jpg")
 			.default,
 		social_media: {
 			linkedin: "",
