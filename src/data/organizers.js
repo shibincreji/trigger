@@ -406,47 +406,4 @@ export const ORGANIZERS_DATA = [
 			linkedin: "",
 		},
 	},
-
-	// {
-	// 	name: "Cindy Permatasari",
-	// 	event_role: "Host Day 3",
-	// 	professional_role: "Product Manager",
-	// 	institution: "Growth EDUFUND",
-	// 	avatar_url:
-	// 		"https://media-exp1.licdn.com/dms/image/C5603AQHUwPrGIJIC3w/profile-displayphoto-shrink_200_200/0/1629708530886?e=1642636800&v=beta&t=FnK3QEXkMj0VqI3fbIpPzKmE6AyoQMuCQ9fpXnT_L1M",
-	// 	social_media: {
-	// 		linkedin: "https://www.linkedin.com/in/cindy-permatasari/",
-	// 	},
-	// },
-	// {
-	// 	name: "R Surahutomo Aziz Pradana",
-	// 	event_role: "Program",
-	// 	professional_role: "Full Stack Engineer",
-	// 	institution: "PT Bank BTPN Tbk",
-	// 	avatar_url:
-	// 		"https://internationalwomensday-2020.web.app/assets/images/teams/dana.jpg",
-	// 	social_media: {
-	// 		linkedin: "https://www.linkedin.com/in/retzd/",
-	// 	},
-	// },
-	// {
-	// 	name: "Arisetiaji",
-	// 	event_role: "Streamer - Streamyard",
-	// 	professional_role: "System Engineer",
-	// 	institution: "IBMJTI",
-	// 	avatar_url: require("../assets/images/organizers/Arisetiaji 2.jpeg")
-	// 		.default,
-	// 	social_media: {
-	// 		linkedin: "https://www.linkedin.com/in/arisetiaji/",
-	// 	},
-	// },	
-	// {
-	// 	name: "Agum",
-	// 	event_role: "Streamer - QnA Question Gathering & Form",
-	// 	professional_role: null,
-	// 	institution: null,
-	// 	avatar_url:
-	// 		"https://therminic2018.eu/wp-content/uploads/2018/07/dummy-avatar.jpg",
-	// 	social_media: null,
-	// },
 ];

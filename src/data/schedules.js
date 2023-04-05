@@ -101,7 +101,7 @@ export const ScheduleData = [
 	},
 	{
 		label: "Non-Technical Event",
-		title: "Android",
+		title: "Non-Technical Event",
 		date: "Tuesday, 11 April 2023",
 		thumbnail: require("../assets/images/lighweight-android.png").default,
 		time: "10:30 - 16.00",
@@ -160,7 +160,7 @@ export const ScheduleData = [
 				timezone: "UTC/GMT +5:30 hours",
 				title: "Enact",
 				topic: "Faculty Co-ordinators: Prof. Rajkumar",
-				speaker: "Co-ordinators: Shobha, Shristi, J Sahana Raja ",
+				speaker: "Co-ordinators: Shobha, Shristi J, Sahana Raja ",
 				url: "https://forms.gle/s95t7UcH12dGYcCR7"
 			},
 			// {
@@ -228,7 +228,7 @@ export const ScheduleData = [
 	},
 	{
 		label: "Sports",
-		title: "Web",
+		title: "Sports",
 		date: "Tuesday, 11 April 2023",
 		time: "10:30 - 16.00",
 		thumbnail: require("../assets/images/lighweight-web.png").default,
