@@ -72,15 +72,15 @@ export const About = () => {
 						</a>
 					</div>
 				</div>
-				{/* <div className="w-full">
+				<div className="w-full">
 					<div className="rounded-md overflow-hidden">
 						<ReactPlayer
 							width="100%"
-							url="https://www.youtube.com/watch?v=7BqKlQc6-Qc"
+							url="https://www.youtube.com/embed/QkP6rlYWA8U?controls=0"
 							controls
 						/>
 					</div>
-				</div> */}
+				</div>
 			</Container>
 		</div>
 	);

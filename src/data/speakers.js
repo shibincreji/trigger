@@ -48,7 +48,7 @@ export const SPEAKERS_DATA = [
 		topic: "HoD Dept. of CSE",
 		avatar_url: require("../assets/images/speakers/hod.jpg").default,
 		institution: "RRCE",
-		roles: "HoD Dept. of CSE, Dean R&D",
+		roles: "HoD Dept. of CSE, Dean R&D", 
 		featured_speaker: true,
 		social_media: {
 			 linkedin: "",

@@ -48,50 +48,6 @@ export const ScheduleData = [
 				speaker: "Co-ordinators: Rohan R, Vijay Rangan",
 				url: "https://forms.gle/4yg1fEJfNuQDQ1yX8"
 			},
-			// {
-			// 	time: "19.35 - 19.40",
-			// 	title: "Speaker 1 Machine Learning - QnA",
-			// },
-			// {
-			// 	time: "19.45 - 20.25",
-			// 	timezone: "UTC/GMT +5:30 hours",
-			// 	title: "Speaker 2 Machine Learning - Session",
-			// 	topic:
-			// 		"Data Cleaning and Preparation for Machine Learning (Case Study: Covid19 Social Assistance in DIY)",
-			// 	speaker: "Argha Jiwa Kusuma",
-			// },
-			// {
-			// 	time: "20.25 - 20.30",
-			// 	timezone: "UTC/GMT +5:30 hours",
-			// 	title: "Speaker 2 Machine Learning - QnA",
-			// },
-			// {
-			// 	time: "20.30 - 20.35",
-			// 	timezone: "UTC/GMT +5:30 hours",
-			// 	title: "MC Speaker 3 Machine Learning intro",
-			// },
-			// {
-			// 	time: "20.35 - 21.15",
-			// 	timezone: "UTC/GMT +5:30 hours",
-			// 	title: "Speaker 3 Machine Learning - Session",
-			// 	topic: "Driver Trust and Safety at Gojek",
-			// 	speaker: "Ardya Dipta Nandaviri",
-			// },
-			// {
-			// 	time: "21.15 - 21.20",
-			// 	timezone: "UTC/GMT +5:30 hours",
-			// 	title: "Speaker 3 Machine Learning - QnA",
-			// },
-			// {
-			// 	time: "21.20 - 21.25",
-			// 	timezone: "UTC/GMT +5:30 hours",
-			// 	title: "MC Quiz intro",
-			// },
-			// {
-			// 	time: "21.25 - 21.35",
-			// 	timezone: "UTC/GMT +5:30 hours",
-			// 	title: "Quiz Session",
-			// },
 			{
 				time: "16:00",
 				timezone: "UTC/GMT +5:30 hours",
@@ -158,67 +114,11 @@ export const ScheduleData = [
 			{
 				time: "14.00 - 15.30",
 				timezone: "UTC/GMT +5:30 hours",
-				title: "Enact",
+				title: "Shout in Silence",
 				topic: "Faculty Co-ordinators: Prof. Rajkumar",
 				speaker: "Co-ordinators: Shobha, Shristi J, Sahana Raja ",
 				url: "https://forms.gle/s95t7UcH12dGYcCR7"
 			},
-			// {
-			// 	time: "13.25 - 14.05",
-			// 	timezone: "UTC/GMT +5:30 hours",
-			// 	title: "Speaker 1 Android - Session",
-			// 	title: "Android DI -  The Alternate Universe",
-			// 	speaker: "Budi Oktaviyan",
-			// },
-			// {
-			// 	time: "14.05 - 14.15",
-			// 	title: "Speaker 1 Android- QnA",
-			// },
-			// {
-			// 	time: "14.15 - 14.20",
-			// 	timezone: "UTC/GMT +5:30 hours",
-			// 	title: "MC Speaker 2 Android intro",
-			// },
-			// {
-			// 	time: "14.20 - 15.00",
-			// 	timezone: "UTC/GMT +5:30 hours",
-			// 	title: "Speaker 2 Android - Session",
-			// 	topic:
-			// 		"The Pattern Panacea : Avoid Over and Under Engineering (get things done, keep away burnout at home!)",
-			// 	speaker: "Raditya Gumay",
-			// },
-			// {
-			// 	time: "15.00 - 15.10",
-			// 	timezone: "UTC/GMT +5:30 hours",
-			// 	title: "Speaker 2 Android - QnA",
-			// },
-			// {
-			// 	time: "15.10 - 15.15",
-			// 	timezone: "UTC/GMT +5:30 hours",
-			// 	title: "MC Speaker 3 Android intro",
-			// },
-			// {
-			// 	time: "15.15 - 15.55",
-			// 	timezone: "UTC/GMT +5:30 hours",
-			// 	title: "Speaker 3 Android - Session",
-			// 	topic: "Server Driven UI",
-			// 	speaker: "Andri Ginting",
-			// },
-			// {
-			// 	time: "15.55 - 16.05",
-			// 	timezone: "UTC/GMT +5:30 hours",
-			// 	title: "Speaker 3 Android - QnA",
-			// },
-			// {
-			// 	time: "16.05 - 16.10",
-			// 	timezone: "UTC/GMT +5:30 hours",
-			// 	title: "MC Quiz intro",
-			// },
-			// {
-			// 	time: "16.10 - 16.15",
-			// 	timezone: "UTC/GMT +5:30 hours",
-			// 	title: "Quiz Session",
-			// },
 			{
 				time: "16:00",
 				timezone: "UTC/GMT +5:30 hours",
@@ -258,77 +158,6 @@ export const ScheduleData = [
 				speaker: "Co-ordinators: Nagaprasad, Niranjan R ",
 				url: "https://forms.gle/KRDcg1JpM5Pgvsif9"
 			},
-			// {
-			// 	time: "13.00 - 13.10",
-			// 	timezone: "UTC/GMT +5:30 hours",
-			// 	title: "Devfest 2021 Intro",
-			// },
-			// {
-			// 	time: "13.10 - 13.15",
-			// 	timezone: "UTC/GMT +5:30 hours",
-			// 	title: "Speakers Web Intro",
-			// },
-			// {
-			// 	time: "13.15 - 13.25",
-			// 	timezone: "UTC/GMT +5:30 hours",
-			// 	title: "MC Welcome, MC Speaker 1 Web Intro",
-			// },
-			// {
-			// 	time: "13.25 - 14.05",
-			// 	timezone: "UTC/GMT +5:30 hours",
-			// 	title: "Speaker 1 Web - Session",
-			// 	topic: "SEO Evolution in WargaBantuWarga.com",
-			// 	speaker: "Zain Fathoni",
-			// },
-			// {
-			// 	time: "14.05 - 14.15",
-			// 	timezone: "UTC/GMT +5:30 hours",
-			// 	title: "Speaker 1 Web- QnA",
-			// },
-			// {
-			// 	time: "14.15 - 14.20",
-			// 	timezone: "UTC/GMT +5:30 hours",
-			// 	title: "MC Speaker 2 Web intro",
-			// },
-			// {
-			// 	time: "14.20 - 15.00",
-			// 	timezone: "UTC/GMT +5:30 hours",
-			// 	title: "Speaker 2 Web - Session",
-			// 	topic: "Mengembangkan Aplikasi Web Modern dengan Web Components",
-			// 	speaker: "Riza Fahmi",
-			// },
-			// {
-			// 	time: "15.00 - 15.10",
-			// 	timezone: "UTC/GMT +5:30 hours",
-			// 	title: "Speaker 2 Web - QnA",
-			// },
-			// {
-			// 	time: "15.10 - 15.15",
-			// 	timezone: "UTC/GMT +5:30 hours",
-			// 	title: "MC Speaker 3 Web intro",
-			// },
-			// {
-			// 	time: "15.15 - 15.55",
-			// 	timezone: "UTC/GMT +5:30 hours",
-			// 	title: "Speaker 3 Web - Session",
-			// 	topic: "Web Development Overview",
-			// 	speaker: "Jefry Dewangga",
-			// },
-			// {
-			// 	time: "15.55 - 16.05",
-			// 	timezone: "UTC/GMT +5:30 hours",
-			// 	title: "Speaker 3 Web - QnA",
-			// },
-			// {
-			// 	time: "16.05 - 16.10",
-			// 	timezone: "UTC/GMT +5:30 hours",
-			// 	title: "MC Quiz intro",
-			// },
-			// {
-			// 	time: "16.10 - 16.15",
-			// 	timezone: "UTC/GMT +5:30 hours",
-			// 	title: "Quiz Session",
-			// },
 			{
 				time: "16:00",
 				timezone: "UTC/GMT +5:30 hours",

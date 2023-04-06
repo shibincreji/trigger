@@ -209,6 +209,17 @@ export const ORGANIZERS_DATA = [
 		},
 	},
 	{
+		name: "Rohan R",
+		event_role: "Technical Quiz Co-ordinator",
+		professional_role: "Technical Quiz Co-ordinator",
+		institution: "CSE, RRCE",
+		avatar_url: require("../assets/images/organizers/rohan.jpg")
+			.default,
+		social_media: {
+			linkedin: "",
+		},
+	},
+	{
 		name: "Simple K S ",
 		event_role: "Pixel Wizard Co-ordinator",
 		professional_role: "Treasure Hunt Co-ordinator",
