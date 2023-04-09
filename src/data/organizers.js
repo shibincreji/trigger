@@ -220,6 +220,17 @@ export const ORGANIZERS_DATA = [
 		},
 	},
 	{
+		name: "PS Vijayrangan",
+		event_role: "Technical Quiz Co-ordinator",
+		professional_role: "Technical Quiz Co-ordinator",
+		institution: "CSE, RRCE",
+		avatar_url: require("../assets/images/organizers/vijay.jpg")
+			.default,
+		social_media: {
+			linkedin: "",
+		},
+	},
+	{
 		name: "Simple K S ",
 		event_role: "Pixel Wizard Co-ordinator",
 		professional_role: "Treasure Hunt Co-ordinator",

@@ -76,7 +76,7 @@ export const About = () => {
 					<div className="rounded-md overflow-hidden">
 						<ReactPlayer
 							width="100%"
-							url="https://www.youtube.com/embed/QkP6rlYWA8U?controls=0"
+							url="https://youtu.be/RcDwMrABSsg?controls=0"
 							controls
 						/>
 					</div>
