@@ -22,17 +22,6 @@ export const SPEAKERS_DATA = [
 		},
 	},
 	{
-		name: "Mrs. Rathymol K. R",
-		topic: "Chief Guest",
-		avatar_url: require("../assets/images/speakers/rathymol.jpg").default,
-		institution: "DRDO ",
-		roles: "Senior Scientist",
-		featured_speaker: true,
-		social_media: {
-			 linkedin: "",
-		},
-	},
-	{
 		name: "Dr. Balakrishna Rayanki",
 		topic: "Principal of CSE",
 		avatar_url: require("../assets/images/speakers/principal.jpg").default,
@@ -41,6 +30,17 @@ export const SPEAKERS_DATA = [
 		featured_speaker: true,
 		social_media: {
 			 linkedin: "https://www.linkedin.com/in/dr-balakrishna-rayanki-a78b72b/",
+		},
+	},
+	{
+		name: "Mrs. Rathymol K. R",
+		topic: "Chief Guest",
+		avatar_url: require("../assets/images/speakers/rathymol.jpg").default,
+		institution: "DRDO ",
+		roles: "Senior Scientist",
+		featured_speaker: true,
+		social_media: {
+			 linkedin: "",
 		},
 	},
 	{
