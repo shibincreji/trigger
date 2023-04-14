@@ -1,4 +1,4 @@
-import Fade from "react-reveal/Fade";1
+import Fade from "react-reveal/Fade";11
 import { Helmet } from "react-helmet";
 import { Container } from "../components/Container";
 import { SpeakersSection } from "../components/sections/SpeakersSection";
