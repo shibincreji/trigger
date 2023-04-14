@@ -1,6 +1,6 @@
 export const ORGANIZERS_DATA = [
 	{
-		name: "Sowmya M.N",
+		name: "Sowmya M.N",1
 		event_role: "Publisher",
 		professional_role: "Main Co-ordinator",
 		institution: "CSE, RRCE",
