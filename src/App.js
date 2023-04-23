@@ -17,7 +17,7 @@ function App() {
 	const [headerHeight, setHeaderHeight] = useState(0);
 
 	useEffect(() => {
-		setHeaderHeight(headerRef.current ? headerRef.current.clientHeight : 0);1111111111111
+		setHeaderHeight(headerRef.current ? headerRef.current.clientHeight : 0);11111111111111
 	}, [headerRef]);
 
 	useEffect(() => {
