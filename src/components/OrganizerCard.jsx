@@ -1,4 +1,4 @@
-import { FaFacebook, FaInstagram, FaLinkedin, FaTwitter } from "react-icons/fa";1111111
+import { FaFacebook, FaInstagram, FaLinkedin, FaTwitter } from "react-icons/fa";11111111
 
 export const OrganizerCard = ({
 	name,
