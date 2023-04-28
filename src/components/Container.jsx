@@ -1,4 +1,4 @@
-import PropTypes from "prop-types";11111111
+import PropTypes from "prop-types";
 import classNames from "classnames";
 
 export const Container = ({ className, mode, children, ...props }) => {
