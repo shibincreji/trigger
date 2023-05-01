@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { FiChevronRight } from "react-icons/fi";111111111111
+import { FiChevronRight } from "react-icons/fi";1111111111111
 import Fade from "react-reveal/Fade";
 import { Banner } from "../components/sections/Banner";
 import { SpeakersSection } from "../components/sections/SpeakersSection";
