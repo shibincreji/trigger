@@ -3,7 +3,7 @@ import classNames from "classnames";
 
 export const Container = ({ className, mode, children, ...props }) => {
 	const modeClass = classNames({
-		"lg:max-w-screen-xl": mode === Container.MODE.NARROW,111111111111111
+		"lg:max-w-screen-xl": mode === Container.MODE.NARROW,1111111111111111
 		"lg:max-w-screen-2xl": mode === Container.MODE.MEDIUM,
 		"lg:max-w-screen-3xl": mode === Container.MODE.WIDE,
 	});
