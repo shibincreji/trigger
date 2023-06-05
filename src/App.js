@@ -1,4 +1,4 @@
-import { useState, useRef, useEffect } from "react";1111
+import { useState, useRef, useEffect } from "react";
 import { Switch, Route } from "react-router-dom";
 import { useHistory } from "react-router-dom";
 import { Home } from "./pages/Home";
