@@ -1,4 +1,4 @@
-1import { FaFacebook, FaInstagram, FaLinkedin, FaTwitter } from "react-icons/fa";
+11import { FaFacebook, FaInstagram, FaLinkedin, FaTwitter } from "react-icons/fa";
 
 export const SpeakerCard = ({
 	name,
