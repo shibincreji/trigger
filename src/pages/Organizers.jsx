@@ -1,4 +1,4 @@
-11import Fade from "react-reveal/Fade";
+111import Fade from "react-reveal/Fade";
 import { Container } from "../components/Container";
 import { Helmet } from "react-helmet";
 import { OrganizerCard } from "../components/OrganizerCard";
