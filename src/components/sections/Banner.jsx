@@ -1,4 +1,4 @@
-111111111import bannerDesktop from '../../assets/images/banner.mp4';
+1111111111import bannerDesktop from '../../assets/images/banner.mp4';
 import bannerMobile from '../../assets/images/banner_mob.mp4';
 
 export const Banner = () => {
