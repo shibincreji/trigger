@@ -1,4 +1,4 @@
-import Fade from "react-reveal/Fade";
+1import Fade from "react-reveal/Fade";
 import { Helmet } from "react-helmet";
 import { useState, useEffect } from "react";
 import { Container } from "../components/Container";
