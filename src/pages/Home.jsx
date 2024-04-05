@@ -1,4 +1,4 @@
-1import { Link } from "react-router-dom";
+11import { Link } from "react-router-dom";
 import { FiChevronRight } from "react-icons/fi";
 import Fade from "react-reveal/Fade";
 import { Banner } from "../components/sections/Banner";
